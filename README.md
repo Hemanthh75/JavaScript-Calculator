@@ -1,5 +1,7 @@
 # JavaScript-Calculator
 I have created a Calculator using JavaScript in this project. Please go through the readme file for more understanding.
+
+
 Index.html page:
 
 1.First I have created a folder named Javascript assignment and added it to visual studio.
